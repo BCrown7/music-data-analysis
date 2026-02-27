@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Entorno virtual
+venv/
+.venv/
+
+# Variables de entorno y secretos
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs generados
+outputs/figures/*.png
+outputs/models/*.pkl
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
