@@ -12,6 +12,16 @@ def load_raw(sheet_id: str = SHEET_ID) -> pd.DataFrame:
 
 if __name__ == "__main__":
     df = load_raw()
-    print(df.shape)
-    print(df.head(3))
-    print(df.tail(3))
+    print(f'\n    Forma del DataFrame: {df.shape}')
+    print(df.sample(2)) # Ejemplares de muestra
+    print(df.tail(1))   # Verificación del último agregado
+    print('-' * 80)
+    
+    # Importacion de función 'cleaning'
+    from cleaning import clean_data
+
+    df_raw = load_raw()
+    df_clean = clean_data(df_raw)
+
+    print(df_clean.sample(5))
+    print(df_clean.dtypes)
