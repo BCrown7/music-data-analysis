@@ -6,9 +6,9 @@ def parse_length(value: str) -> int:
     if pd.isna(value) or str(value).strip() == "-":
         return None
 
-    match_h = re.search(r'(\d+)h', value)
-    match_m = re.search(r'(\d+)min', value)
-    match_s = re.search(r'(\d+)s', value)
+    match_h = re.search(r'(\d+)\s*h', value)
+    match_m = re.search(r'(\d+)\s*min', value)
+    match_s = re.search(r'(\d+)\s*s\b', value)
     
     h = int(match_h.group(1)) if match_h else 0
     m = int(match_m.group(1)) if match_m else 0
@@ -33,6 +33,7 @@ def parse_year(value: str)-> int:
 # Función para aplicar las transformaciones al DataFrame
 def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
+    df = df[['Album', 'Band', 'Release Date', 'Songs', 'Length', 'Rate']]
     df.columns = ['album', 'artist', 'release_date', 'songs', 'length', 'rate']
     df['duration_min']      = df['length'].apply(parse_length)
     df['rating']            = df['rate'].apply(parse_rate)

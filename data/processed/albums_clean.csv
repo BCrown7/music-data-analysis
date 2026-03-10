@@ -178,7 +178,7 @@ Sehnsucht,Rammstein,1997,11,44,1
 Ten Thousand Fists,Disturbed,2005,14,56,2
 Van,Clown Core,2020,12,17,1
 We Are Not Your Kind,Slipknot,2019,14,63,3
-My Way,Johnny Cash,,15,32,1
+My Way,Johnny Cash,1965,15,32,1
 While You Were Away,Kasper Lindmark,2018,10,12,4
 MTV Unplugged In New York,Nirvana,1994,14,54,3
 Urban Hymns,The Verve,1997,13,75,2
@@ -453,7 +453,7 @@ Strange Days,The Doors,1967,10,35,2
 Audioslave,Audioslave,2002,14,65,4
 Toxicity,System Of A Down,2001,15,44,3
 Heathen Chemistry,Oasis,2002,12,48,3
-Grandmaster Melle Mel & The Furious Five,Grandmster Flash & The Furious Five,,14,69,3
+Grandmaster Melle Mel & The Furious Five,Grandmster Flash & The Furious Five,1983,14,69,3
 Purple Rain,Prince,1984,9,44,2
 Strange Pleasures,Still Corners,2013,13,51,2
 Ghost VI: Locusts,Nine Inch Nails,2020,15,83,4
@@ -509,7 +509,7 @@ The Best Of Chet Baker Plays,Chet Baker,1992,14,55,3
 Self Control,Laura Branigan,1984,10,40,3
 Chaos And Disorder,Prince,1996,11,39,2
 Her Loss,Drake / 21 Savage,2022,16,60,2
-17,XXXTENTACION,2017,11,1,3
+17,XXXTENTACION,2017,11,22,3
 Carrie & Lowell,Sufjan Stevens,2015,11,44,4
 Time Changes,The Dave Brubeck Quartet,1964,7,38,3
 Honey,Ohio Players,1975,7,32,4
@@ -562,7 +562,7 @@ King Of Rock,Run DMC,1985,9,44,1
 Rio Salvaje,Little Jesus,2016,10,47,3
 Budgie,Budgie,1971,8,41,3
 New Model,Perturbator,2017,6,35,4
-I Think We´re Alone Now,Tommy James & The Shondells,1967,12,0,3
+I Think We´re Alone Now,Tommy James & The Shondells,1967,12,29,3
 Mutter,Rammstein,2001,11,45,2
 Miles Davis & The Modern Jazz Giants,Miles Davis,1959,5,42,2
 Nocturne,Wild Nothing,2012,11,45,3
@@ -579,7 +579,7 @@ After Hours,The Weeknd,2020,14,56,2
 McCartney II,Paul McCartney,1980,11,38,3
 No More Tears,Ozzy Osbourne,1991,13,66,3
 Pablo Honey,Radiohead,1993,12,42,1
-New Juke Box Hits,Chuck Berry,1931,12,30,2
+New Juke Box Hits,Chuck Berry,1961,12,30,2
 The Mourning Of A Star,Keith Jarrett,1971,11,44,2
 Suspiria OST,Thom Yorke,2018,25,80,2
 U218 Singles,U2,2006,18,74,1
@@ -602,7 +602,7 @@ TANGK,IDLES,2024,11,40,3
 Bridge Over Trouble Water,Simon & Garfunkel,1970,11,37,2
 Everyday Life,Coldplay,2019,16,53,3
 Submarine,The Marias,2024,14,45,3
-Surfin' Safari,The Beach Boys,1962,12,1,2
+Surfin' Safari,The Beach Boys,1962,12,25,2
 High Voltage,AC/DC,1976,9,44,3
 ÉXODO,Peso Pluma,2024,24,78,2
 I Hear You,Peggy Lou,2024,10,40,2
@@ -655,7 +655,7 @@ The Death of Slim Shady,Eminem,2024,19,64,2
 Desensitized,Drowning Pool,2004,11,39,2
 Dire Straits,Dire Straits,1978,9,42,3
 Scream Dream,Ted Nugent,1980,10,35,4
-Nightbringer,The Black Dahlia Murder,2017,9,0,3
+Nightbringer,The Black Dahlia Murder,2017,9,33,3
 Diver Down,Van Halen,1982,12,31,3
 Katrina & The Waves,Katrina & The Waves,1985,10,37,3
 Silent Hill: The Headphone Covers,Akira Yamaoka,2023,7,14,3
@@ -807,9 +807,22 @@ Back To The Egg,Wings,1979,14,42,1
 Vacation II,Acid Ghost,2016,8,19,3
 private music,Deftones,2025,11,42,4
 Blood Of My Enemy,Winds of Plague,2017,12,39,2
-Gone Gone Gone,CHarlie Fearthers,1956,16,38,2
+Gone Gone Gone,Charlie Fearthers,1956,16,38,2
 Get Born,Jet,2003,13,49,3
 "Right Places, Wrong Person",RM,2024,11,35,2
 DON'T TAP THE GLASS,"Tyler, The Creator",2025,10,28,1
 Thee Sacred Souls,Thee Sacred Souls,2022,12,39,2
 Thy Will Be Done,$uicide Boy$,2025,10,30,5
+DOPAMINA,Peso Pluma,2025,15,44,2
+Pygmalion,Slowdive,1996,9,48,3
+The Life of a Showgirl,Taylor Swift,2025,12,42,1
+Primitive Plus,Edan,2001,18,57,2
+Currents,Tame Impala,2015,13,51,2
+The New Americana Collection,Jon Batiste,2025,9,30,4
+Best Of Wang Chung,Wang Chung,2002,11,48,4
+Piss In The Wind,Joji,2026,21,46,2
+BRITPOP,Robbie Williams,2026,17,60,2
+Surfer Rosa,Pixies,1988,13,34,3
+Love Is Not Enough,Converge,2026,10,31,4
+Everybodys Gotta Learn Sometimes,Beck,2026,8,30,3
+"Kill All The Time. Disco, Occasionally.",Harry Styles,2026,12,43,3
