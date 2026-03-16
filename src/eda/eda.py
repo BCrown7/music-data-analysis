@@ -73,3 +73,4 @@ if __name__ == '__main__':
     print(mean_decade(df))
     print(five_stars_albums(df))
     print(corr_albums(df))
+    # print(f'\nTotal de artistas distintos en el data: {df["artist"].nunique()}')
